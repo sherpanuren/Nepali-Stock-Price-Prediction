@@ -5,7 +5,7 @@ This project aims to predict stock prices in the Nepali stock market using machi
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/Nepali-Stock-Price-Prediction.git
+   git clone https://github.com/sherpanuren/Nepali-Stock-Price-Prediction.git
    ```
 2. Install the required dependencies:
    ```bash
